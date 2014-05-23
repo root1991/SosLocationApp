@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SosLocationApp</string>
+    <string name="GPSAlertDialogTitle">ssss</string>
+    <string name="GPSAlertDialogMessage">dddd</string>
+    <string name="settings">settings</string>
+    <string name="cancel">cancel</string>
+</resources>
